@@ -41,3 +41,5 @@ Alacrity gets the text of all elements found by default, although you can run yo
     end
 
     get_me_info.structured_data["all_anchor_tags"] should give you all anchor tags links!
+
+### Read more in Wiki
